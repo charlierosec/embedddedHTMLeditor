@@ -1,0 +1,33 @@
+/*
+    Author: Charles R Chiccarine
+    Email: src322@drexel.edu
+
+    Purpose:
+    Provides CSS for the editor.
+
+    Last Edit: 02/28/2019
+    Added header comments
+*/
+
+iframe
+{
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 0px 0px 0px;
+    height: 500px;
+    width: 100%;
+}
+
+#tryitout
+{
+    height: 30px;
+    margin-bottom: 5px;
+}
+ 
+#userHTMLText
+{
+    height: 450px;
+    overflow-y: scroll;
+    width: 100%;
+}
+
