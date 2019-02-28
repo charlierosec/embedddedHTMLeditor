@@ -2,6 +2,9 @@
 A simple HTML/CSS editor that can be embedded into webpages
 
 ## How To Use
+Include all these files in the same directory with your HTML file that you
+want to embed the editor in. Within the HTML file, include the following code.
+
 In \<head\>
 ```
 <link rel="stylesheet" href="embeddedCSS.css">
